@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7b0db41-0a6f-4836-864e-79c7672bf7b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dimat3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt3/linearis 1 feladat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt3/linearis2 1 feladat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt4/linearis 2 feladat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt4/linearis2 2 feladat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt5/feladat1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt5/feladat2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt6/feladat1 fabbernat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt6/feladat2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt6/feladat2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt6/feladat2_gpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt6/feladat3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt6/feladat3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt6/feladat3_gpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt6/feladat4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt6/testek 1 feladat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt6/testek 2 feladat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eteszt6/testek 3 feladat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/het8_zh_gyakorlo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/potentially updated verison of linearis 2 feladat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/szorg7.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nOdOOr9zHZdgjvuoKGgwGL9Llz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Doctest Poly.is_irreducible.executor&quot;: &quot;Run&quot;,
+    &quot;Python.feladat1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.feladat1 fabbernat (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.feladat1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.feladat2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.feladat2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.feladat2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.feladat2_gpt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.feladat3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.feladat3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.feladat4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gpt2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gpt3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.het8_zh_gyakorlo.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.linearis 1 feladat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linearis 2 feladat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linearis2 1 feladat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linearis2 2 feladat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.potentially updated verison of linearis 2 feladat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.szorg7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testek 1 feladat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testek 2 feladat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testek 3 feladat.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PycharmProjects/dimat3/eteszt6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\dimat3\eteszt6" />
+      <recent name="C:\PycharmProjects\dimat3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\dimat3\eteszt4" />
+      <recent name="C:\PycharmProjects\dimat3\eteszt3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.testek 3 feladat">
+    <configuration name="feladat1 fabbernat (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dimat3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eteszt6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eteszt6/feladat1 fabbernat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="feladat1 fabbernat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dimat3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eteszt6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\PycharmProjects\dimat3\eteszt6\feladat1 fabbernat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="feladat1 fabbernat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dimat3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eteszt6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\PycharmProjects\dimat3\eteszt6\feladat1 fabbernat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testek 1 feladat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dimat3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eteszt6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eteszt6/testek 1 feladat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testek 2 feladat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dimat3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eteszt6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eteszt6/testek 2 feladat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testek 3 feladat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dimat3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eteszt6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eteszt6/testek 3 feladat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testek 3 feladat" />
+        <item itemvalue="Python.testek 2 feladat" />
+        <item itemvalue="Python.testek 1 feladat" />
+        <item itemvalue="Python.feladat1 fabbernat (1)" />
+        <item itemvalue="Python.feladat1 fabbernat (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7b0db41-0a6f-4836-864e-79c7672bf7b1" name="Changes" comment="" />
+      <created>1728848023746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728848023746</updated>
+      <workItem from="1728848028366" duration="3805000" />
+      <workItem from="1729352462227" duration="1442000" />
+      <workItem from="1729413441659" duration="1200000" />
+      <workItem from="1729546896925" duration="2803000" />
+      <workItem from="1729694469427" duration="3033000" />
+      <workItem from="1730361282782" duration="5771000" />
+      <workItem from="1730650526214" duration="4796000" />
+      <workItem from="1731451979244" duration="2688000" />
+      <workItem from="1731538757566" duration="2704000" />
+      <workItem from="1731625138115" duration="3315000" />
+      <workItem from="1731689467916" duration="159000" />
+      <workItem from="1731689954035" duration="1314000" />
+      <workItem from="1731793731980" duration="1001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dimat3$feladat4.coverage" NAME="feladat4 Coverage Results" MODIFIED="1731540089157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$feladat1.coverage" NAME="feladat1 Coverage Results" MODIFIED="1731626986779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$szorg7.coverage" NAME="szorg7 Coverage Results" MODIFIED="1730650573260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dimat3$feladat3_2.coverage" NAME="feladat3_2 Coverage Results" MODIFIED="1731539728842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$linearis2_1_feladat.coverage" NAME="linearis2 1 feladat Coverage Results" MODIFIED="1729696223182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dimat3$testek_3_feladat.coverage" NAME="testek 3 feladat Coverage Results" MODIFIED="1731794130225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$gpt2.coverage" NAME="gpt2 Coverage Results" MODIFIED="1731453444710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$feladat3.coverage" NAME="feladat3 Coverage Results" MODIFIED="1731539754483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$het8_zh_gyakorlo.coverage" NAME="het8_zh_gyakorlo Coverage Results" MODIFIED="1730363468889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dimat3$potentially_updated_verison_of_linearis_2_feladat.coverage" NAME="potentially updated verison of linearis 2 feladat Coverage Results" MODIFIED="1728942349784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dimat3$feladat2_2.coverage" NAME="feladat2_2 Coverage Results" MODIFIED="1731539626928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$testek_1_feladat.coverage" NAME="testek 1 feladat Coverage Results" MODIFIED="1731793842380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$linearis2_2_feladat.coverage" NAME="linearis2 2 feladat Coverage Results" MODIFIED="1729696284209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dimat3$linearis_2_feladat.coverage" NAME="linearis 2 feladat Coverage Results" MODIFIED="1729547759976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dimat3$linearis_1_feladat.coverage" NAME="linearis 1 feladat Coverage Results" MODIFIED="1729547298379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dimat3$feladat1__1_.coverage" NAME="feladat1 (1) Coverage Results" MODIFIED="1731453043011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$Doctest_Poly_is_irreducible.coverage" NAME="Doctest Poly.is_irreducible Coverage Results" MODIFIED="1731626658200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/sympy/polys" />
+    <SUITE FILE_PATH="coverage/dimat3$gpt3.coverage" NAME="gpt3 Coverage Results" MODIFIED="1731453736623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$feladat2.coverage" NAME="feladat2 Coverage Results" MODIFIED="1731539591821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$testek_2_feladat.coverage" NAME="testek 2 feladat Coverage Results" MODIFIED="1731794046270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$feladat2__1_.coverage" NAME="feladat2 (1) Coverage Results" MODIFIED="1731453537102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$feladat1_fabbernat__1_.coverage" NAME="feladat1 fabbernat (1) Coverage Results" MODIFIED="1731793786924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+    <SUITE FILE_PATH="coverage/dimat3$feladat2_gpt.coverage" NAME="feladat2_gpt Coverage Results" MODIFIED="1731540288106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
+  </component>
+</project>
