@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7b0db41-0a6f-4836-864e-79c7672bf7b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dimat3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt3/linearis 1 feladat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt3/linearis2 1 feladat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt4/linearis 2 feladat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt4/linearis2 2 feladat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt5/feladat1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt5/feladat2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt6/feladat1 fabbernat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt6/feladat2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt6/feladat2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt6/feladat2_gpt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt6/feladat3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt6/feladat3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt6/feladat3_gpt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt6/feladat4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt6/testek 1 feladat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt6/testek 2 feladat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eteszt6/testek 3 feladat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/het8_zh_gyakorlo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/potentially updated verison of linearis 2 feladat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/szorg7.py" afterDir="false" />
-    </list>
+    <list default="true" id="d7b0db41-0a6f-4836-864e-79c7672bf7b1" name="Changes" comment="alfonnak" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -284,8 +256,17 @@
       <workItem from="1731625138115" duration="3315000" />
       <workItem from="1731689467916" duration="159000" />
       <workItem from="1731689954035" duration="1314000" />
-      <workItem from="1731793731980" duration="1001000" />
+      <workItem from="1731793731980" duration="1617000" />
     </task>
+    <task id="LOCAL-00001" summary="alfonnak">
+      <option name="closed" value="true" />
+      <created>1731794991280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731794991293</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +282,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alfonnak" />
+    <option name="LAST_COMMIT_MESSAGE" value="alfonnak" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dimat3$feladat4.coverage" NAME="feladat4 Coverage Results" MODIFIED="1731540089157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eteszt6" />
